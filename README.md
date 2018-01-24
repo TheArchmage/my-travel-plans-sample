@@ -1,1 +1,1 @@
-#2 Travel Plans test project for Udacity GitHub course.
+# Travel Plans test project for Udacity GitHub course.
